@@ -27,13 +27,7 @@ Ensure you have the following installed:
     cd camera-parameter-
     ```
 
-2. Create and activate a virtual environment:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
     ```
